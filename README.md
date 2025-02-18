@@ -1,3 +1,7 @@
-I'm Malindu Bandara, a Software Developer based in <b>[Kurunegala, Sri Lanka.](https://g.co/kgs/vKF2Sh) <img src="https://i.imgur.com/4UEOLxw.png" width="20"/></b>
+### Hi, I'm Malindu Bandara! 👋  
 
-I hope you find your time here useful!
+CSE Undergrad at the University of Moratuwa. Mostly figuring things out as I go.  
+
+📍 [Kurunegala, Sri Lanka](https://g.co/kgs/vKF2Sh) 🇱🇰  
+
+If something here breaks, it was probably intentional.  
