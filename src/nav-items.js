@@ -1,7 +1,7 @@
 const navItems = [
   { name: "home", link: "/" },
-  { name: "courses", link: "/courses" },
-  { name: "contact", link: "/contact" },
+  { name: "blog", link: "https://blog.thisismalindu.com" },
+  { name: "about", link: "#about" },
 ];
 
 export default navItems;

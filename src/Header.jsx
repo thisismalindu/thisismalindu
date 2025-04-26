@@ -19,12 +19,12 @@ export default function Header() {
           />
         </h1>
         <p className="mono tracking-tight max-w-2xl">
-          An Engineering Student, Graphic Designer, Content Creator,
-          and Photography Hobbyist from Sri Lanka.
+       Undergrad @ <a href="https://cse.mrt.ac.lk/" className="underline">CSE University of Moratuwa</a>.
+        <br></br>I build things, break them, and sometimes post about it.
         </p>
         <div className="flex gap-4">
-          <Button primary={true} href="/courses">
-            Courses
+          <Button primary={true} href="/blog">
+            Blog
           </Button>
           <Button href="/contact">Contact</Button>
         </div>
